@@ -349,4 +349,4 @@ with tab2:
 
 # Footer
 st.divider()
-st.markdown("*Warehouse Reconciliation POC - Powered by Google Gemini AI*")
+st.markdown("*Warehouse Reconciliation POC - avencer.tech*")
